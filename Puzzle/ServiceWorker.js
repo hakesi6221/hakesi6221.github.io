@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Sat34Pazzle-1.0";
 const contentToCache = [
     "Build/Puzzle.loader.js",
-    "Build/Puzzle.framework.js.br",
-    "Build/Puzzle.data.br",
-    "Build/Puzzle.wasm.br",
+    "Build/Puzzle.framework.js",
+    "Build/Puzzle.data",
+    "Build/Puzzle.wasm",
     "TemplateData/style.css"
 
 ];

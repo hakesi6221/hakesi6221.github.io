@@ -1,2 +1,1 @@
-*.data filter=lfs diff=lfs merge=lfs -text
-*/ filter=lfs diff=lfs merge=lfs -text
+*Sat34Escape.data filter=lfs diff=lfs merge=lfs -text

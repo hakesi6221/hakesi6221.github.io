@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Sat34Shooting-1.0";
+const cacheName = "DefaultCompany-Space Shooter-1.0";
 const contentToCache = [
     "Build/Shooting.loader.js",
     "Build/Shooting.framework.js",

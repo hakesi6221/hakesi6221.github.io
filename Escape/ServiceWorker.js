@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-Escape-0.1.0";
+const cacheName = "DefaultCompany-MysteriousRooms-0.1.0";
 const contentToCache = [
     "Build/Escape.loader.js",
     "Build/Escape.framework.js",
